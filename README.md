@@ -1,11 +1,15 @@
 
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<!-- ========================================================= -->
+<!--                 HARSHITH KARNAM PROFILE                   -->
+<!-- ========================================================= -->
+
+<!-- ANIMATED HEADER -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:1D4ED8,100:06B6D4&height=220&section=header&text=HARSHITH%20KARNAM&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Python%20%7C%20AI%2FML&descSize=17&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:1E1B4B,65:1D4ED8,100:0891B2&height=220&section=header&text=HARSHITH%20KARNAM&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=B.TECH%20CSE%20STUDENT%20%7C%20PYTHON%20%7C%20AI%2FML&descSize=17&descAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+with+Python;Turning+Ideas+Into+Code;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Harshith!+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+SIMATS;Python+Developer+%7C+AI%2FML+Beginner;Exploring+AGI+and+Advanced+AI+Systems;DSA+Beginner+%7C+IoT+Enthusiast;Learning+Today.+Building+Tomorrow." alt="Animated introduction" />
 
 <br/>
 
@@ -13,54 +17,57 @@
 <img src="https://komarev.com/ghpvc/?username=harshithkarnam343-star&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" />
 </a>
 
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORING-AGI-0891B2?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+<!-- ABOUT ME -->
 
-<h2>
-<img src="https://img.shields.io/badge/👨‍💻-About%20Me-7C3AED?style=flat-square" />
+<h2 align="left">
+<img src="https://img.shields.io/badge/👨‍💻-ABOUT%20ME-7C3AED?style=for-the-badge" />
 </h2>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3>Hey there! I'm Harshith 👋</h3>
+### Hey! I'm Harshith 👋
 
-🎓 Computer Science Engineering student.
+🎓 B.Tech Computer Science Engineering student at **SIMATS**.
 
-🐍 Exploring the world of Python development.
+🐍 Python developer in progress, building my programming foundation.
 
-🤖 Passionate about Artificial Intelligence and Machine Learning.
+🤖 Exploring Artificial Intelligence and Machine Learning.
 
-🧠 Interested in solving problems and building intelligent applications.
+🧠 Interested in AGI and advanced AI systems.
 
-🚀 Currently working on improving my coding skills and developing practical projects.
+💻 Currently learning Data Structures and Algorithms.
 
-🌱 Learning something new every day.
+🔌 Interested in IoT and learning-focused projects.
 
-💡 I believe great developers are built through curiosity, consistency, and hands-on experience.
+🚀 I enjoy exploring new technologies, solving problems, and turning ideas into practical projects.
 
 <br/>
 
-**My current mission:**
+### 🎯 My Philosophy
 
-> Learn deeply. Build consistently. Create technology that matters.
+> Learn continuously. Build fearlessly. Improve every day.
 
 </td>
 
 <td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated developer coding at a computer" />
+<!-- AUTOPLAY CODING GIF -->
 
-<br/><br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A78BFA&center=true&vCenter=true&width=300&lines=Code.;Learn.;Build.;Repeat." alt="Code, learn, build, repeat" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=300&lines=Code.;Learn.;Build.;Repeat." alt="Code Learn Build Repeat" />
 
 </td>
 </tr>
@@ -68,47 +75,123 @@
 
 ---
 
-<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
+<!-- PROFILE QUICK INFO -->
 
 <div align="center">
 
-## ⚡ CURRENTLY EXPLORING
+## ⚡ DEVELOPER SNAPSHOT
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🎓-CSE-1D4ED8?style=for-the-badge" />
+
+<br/><br/>
+
+**B.Tech Student**
+
+SIMATS
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🐍-PYTHON-3776AB?style=for-the-badge" />
+
+<br/><br/>
+
+**Developer**
+
+Learning & Building
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🤖-AI%2FML-7C3AED?style=for-the-badge" />
+
+<br/><br/>
+
+**AI Explorer**
+
+Beginner
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🔌-IoT-0891B2?style=for-the-badge" />
+
+<br/><br/>
+
+**Project Interest**
+
+Learning by Doing
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- CURRENT FOCUS -->
+
+<div align="center">
+
+## 🎯 CURRENT FOCUS
 
 </div>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge" />
+### 🐍 Python Development
 
-<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-**Python Development**
-
-Writing programs, improving logic, and learning to build practical applications.
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/🤖-Machine%20Learning-7C3AED?style=for-the-badge" />
-
-<br/><br/>
-
-**Machine Learning**
-
-Exploring algorithms, data processing, and intelligent systems.
+- Strengthening programming fundamentals
+- Practicing loops, functions, and data structures
+- Writing clean and readable code
+- Building practical Python projects
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence-0891B2?style=for-the-badge" />
+### 🤖 Artificial Intelligence
 
-<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-Exploring-7C3AED?style=flat-square&logo=openai&logoColor=white" />
 
-**Artificial Intelligence**
+- Exploring AI and Machine Learning
+- Learning how intelligent systems work
+- Interested in AGI and advanced AI
+- Working toward practical AI applications
 
-Discovering how AI can solve real-world problems.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Data Structures & Algorithms
+
+<img src="https://img.shields.io/badge/STATUS-Beginner-0891B2?style=flat-square&logo=leetcode&logoColor=white" />
+
+- Learning core data structures
+- Practicing problem-solving
+- Improving logical thinking
+- Building consistency with coding practice
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 IoT & Projects
+
+<img src="https://img.shields.io/badge/STATUS-Exploring-0F766E?style=flat-square&logo=arduino&logoColor=white" />
+
+- Exploring embedded systems
+- Interested in smart and connected devices
+- Learning through hands-on projects
+- Connecting software with real-world applications
 
 </td>
 </tr>
@@ -116,17 +199,26 @@ Discovering how AI can solve real-world problems.
 
 ---
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<!-- TECH STACK -->
 
 <div align="center">
 
-## 🛠️ TECHNOLOGIES & TOOLS
+## 🛠️ TECH STACK & TECHNOLOGIES
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=Technologies+I'm+learning;Tools+I'm+exploring;Skills+I'm+building" />
 
 ### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 
-### 🤖 AI / ML & Data Science
+### 🧠 AI / ML & Data Science
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0891B2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science-0F766E?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/AGI-312E81?style=for-the-badge&logo=brain&logoColor=white" />
+
+### 📚 Libraries & Frameworks to Explore
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -135,19 +227,19 @@ Discovering how AI can solve real-world problems.
 
 ### ⚙️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,arduino&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+<!-- GITHUB ANALYTICS -->
 
 <div align="center">
 
 ## 📊 GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshithkarnam343-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshithkarnam343-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithkarnam343-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
 
@@ -159,25 +251,37 @@ Discovering how AI can solve real-world problems.
 
 ---
 
-<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+<!-- CONTRIBUTION GRAPH -->
 
 <div align="center">
 
-## 🐍 CONTRIBUTION ACTIVITY
+## 📈 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithkarnam343-star&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithkarnam343-star&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Harshith's%20Contribution%20Graph" width="100%" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<!-- CONTRIBUTION SNAKE -->
 
 <div align="center">
 
-## 🚀 PROJECT SHOWCASE
+## 🐍 WATCH MY CONTRIBUTIONS COME ALIVE
 
-*Turning ideas into working applications.*
+<img src="https://raw.githubusercontent.com/harshithkarnam343-star/harshithkarnam343-star/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+
+</div>
+
+---
+
+<!-- PROJECT SHOWCASE -->
+
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&lines=Ideas+into+Code;Learning+through+Projects;Building+My+Developer+Journey" />
 
 </div>
 
@@ -185,32 +289,52 @@ Discovering how AI can solve real-world problems.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🐍 Python Projects</h3>
+### 🐍 Python Projects
 
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-Building programming projects to strengthen problem-solving, logic, and software development skills.
+Exploring Python through programming exercises, logic-building, and practical applications.
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/harshithkarnam343-star?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 AI / ML Projects</h3>
+### 🤖 AI / ML Projects
 
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 
-Exploring machine learning concepts and working toward practical AI applications.
+Exploring machine learning concepts and developing practical AI project ideas.
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/harshithkarnam343-star?tab=repositories">
-<img src="https://img.shields.io/badge/View%20My%20Work-0F766E?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-0F766E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 IoT & Embedded Systems
+
+<img src="https://img.shields.io/badge/IoT-0891B2?style=for-the-badge&logo=arduino&logoColor=white" />
+
+Interested in smart devices, embedded systems, and software that interacts with the physical world.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 DSA & Problem Solving
+
+<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+Learning algorithms and strengthening logical thinking through consistent practice.
 
 </td>
 </tr>
@@ -218,19 +342,19 @@ Exploring machine learning concepts and working toward practical AI applications
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:0E7490&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:0891B2&height=3&section=header" />
 
-### 💡 More projects coming as I learn and build!
+### 🚧 More projects coming as I continue learning and building!
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ LEARNING ROADMAP ═══════════════════════ -->
+<!-- LEARNING JOURNEY -->
 
 <div align="center">
 
-## 🎯 MY LEARNING ROADMAP
+## 📚 MY LEARNING JOURNEY
 
 </div>
 
@@ -238,32 +362,33 @@ Exploring machine learning concepts and working toward practical AI applications
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Learning Journey
+### 🗺️ Developer Roadmap
 
 - [x] Begin my programming journey
-- [x] Explore Python
+- [x] Start exploring Python
 - [ ] Strengthen Python fundamentals
+- [ ] Build more Python projects
 - [ ] Learn NumPy and Pandas
 - [ ] Study Machine Learning algorithms
 - [ ] Build end-to-end AI/ML projects
-- [ ] Explore Deep Learning
+- [ ] Explore advanced AI concepts
 - [ ] Contribute to open source
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Future Exploration
+### 🔭 Currently Exploring
 
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 💬 Natural Language Processing
-- ⚡ Generative AI
-- ☁️ Cloud and AI deployment
-- 🧪 Real-world AI applications
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=flat-square&logo=openai&logoColor=white" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=38BDF8&center=true&vCenter=true&width=300&lines=One+step+at+a+time.;Progress+over+perfection.;Keep+building." />
+- Artificial General Intelligence
+- Machine Learning fundamentals
+- Data Structures & Algorithms
+- Internet of Things
+- Embedded Systems
+- Problem-solving techniques
+- Real-world software projects
 
 </td>
 </tr>
@@ -271,7 +396,52 @@ Exploring machine learning concepts and working toward practical AI applications
 
 ---
 
-<!-- ═══════════════════════ DEVELOPER MINDSET ═══════════════════════ -->
+<!-- GOALS -->
+
+<div align="center">
+
+## 🎯 GOALS & AMBITIONS
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 AI & Intelligence
+
+- [ ] Build a strong AI/ML foundation
+- [ ] Explore AGI concepts
+- [ ] Understand advanced AI systems
+- [ ] Develop useful AI applications
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Development
+
+- [ ] Improve Python programming
+- [ ] Practice DSA consistently
+- [ ] Build real-world projects
+- [ ] Improve software development skills
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Growth
+
+- [ ] Create a strong project portfolio
+- [ ] Contribute to open source
+- [ ] Learn new technologies
+- [ ] Keep growing as a developer
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- DEVELOPER MINDSET -->
 
 <div align="center">
 
@@ -281,15 +451,15 @@ Exploring machine learning concepts and working toward practical AI applications
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Curiosity-Always%20On-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Consistency-Every%20Day-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Goals-Bigger%20Every%20Day-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CURIOSITY-ALWAYS%20ON-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CONSISTENCY-DAILY-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEARNING-NEVER%20STOPS-2563EB?style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+<!-- CONNECT -->
 
 <div align="center">
 
@@ -299,14 +469,32 @@ Exploring machine learning concepts and working toward practical AI applications
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
+<a href="https://www.google.com/">
+<img src="https://img.shields.io/badge/Let's%20Build%20Something-0891B2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.;The+journey+has+just+begun." />
+
+<br/>
+
 ### ✨ Code • Learn • Build • Repeat ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:020617&height=130&section=footer&animation=fadeIn" />
 
 </div>
