@@ -1,49 +1,120 @@
 
 <div align="center">
 
-# Hi there, I'm Harshith 👋
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=200&section=header&text=HARSHITH%20KARNAM&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&animation=fadeIn" />
 
-### Aspiring AI/ML Engineer | Python Developer
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Python+Developer+in+Progress;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Turning+Ideas+Into+Code" />
 
-Building my skills in Python, Machine Learning, and Artificial Intelligence.
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Projects+and+Growing" alt="Typing SVG" />
+<a href="https://github.com/harshithkarnam343-star">
+<img src="https://komarev.com/ghpvc/?username=harshithkarnam343-star&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" />
+</a>
 
 </div>
 
 ---
+
+<!-- ABOUT ME -->
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE student passionate about technology.
-- 🐍 Currently learning and building with Python.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 📚 Improving my programming and problem-solving skills.
-- 🚀 Working towards becoming an AI/ML Engineer.
+```python
+class Harshith:
+    def __init__(self):
+        self.name = "Harshith Karnam"
+        self.role = "CSE Student"
+        self.language = ["Python"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Problem Solving"
+        ]
+        self.current_focus = "AI/ML"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile!")
+
+me = Harshith()
+me.say_hi()
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 Python Development
+- Strengthening Python fundamentals
+- Writing clean and reusable code
+- Building practical projects
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+- Exploring ML algorithms
+- Learning data preprocessing
+- Building intelligent applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+### 🧠 AI / Machine Learning
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0891B2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science-0F766E?style=for-the-badge&logo=python&logoColor=white" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
 
 </div>
 
-**Currently exploring:** Machine Learning, Data Science, and AI.
-
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshithkarnam343-star&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshithkarnam343-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithkarnam343-star&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithkarnam343-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" />
 
-<img src="https://streak-stats.demolab.com?user=harshithkarnam343-star&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=harshithkarnam343-star&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshithkarnam343-star/harshithkarnam343-star/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
 
@@ -51,27 +122,52 @@ Building my skills in Python, Machine Learning, and Artificial Intelligence.
 
 ## 🚀 Featured Projects
 
-> Add your best projects here as you build them.
+<div align="center">
 
-- 🐍 **Python Projects** — Small programs and practice projects.
-- 🤖 **AI/ML Projects** — Machine learning experiments and applications.
+<a href="https://github.com/harshithkarnam343-star?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+> 🚧 More Python and AI/ML projects coming soon!
 
 ---
 
-## 🎯 Current Goals
+## 🎯 My Learning Roadmap
 
-- [ ] Strengthen Python fundamentals.
-- [ ] Learn NumPy, Pandas, and Scikit-learn.
-- [ ] Build real-world AI/ML projects.
-- [ ] Practice problem-solving consistently.
-- [ ] Contribute to open-source projects.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Currently%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+</div>
+
+- [ ] Master Python fundamentals
+- [ ] Learn NumPy and Pandas
+- [ ] Study machine learning algorithms
+- [ ] Build end-to-end AI/ML projects
+- [ ] Practice DSA and problem solving
+- [ ] Contribute to open source
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/harshithkarnam343-star">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Consistency turns learning into expertise."
+### ✨ Code. Learn. Build. Repeat. ✨
 
-Thanks for visiting my profile! ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=100&section=footer" />
 
 </div>
